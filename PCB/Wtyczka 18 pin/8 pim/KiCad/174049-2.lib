@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 174049-2
+#/322926/1452178/2.50/10/2/Connector
+DEF 174049-2 J 0 30 Y Y 1 F N
+F0 "J" 750 300 50 H V L CNN
+F1 "174049-2" 750 200 50 H V L CNN
+F2 "1740492" 750 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/2d7f1f43de6aa704b8359f8b27bb79cc.pdf" 750 0 50 H I L CNN
+F4 "Body Features: Primary Product Color Black | Configuration Features: Number of Signal Positions 8 | Number of Sections 1 | PCB Mount Orientation Horizontal | Number of Positions 8 | Number of Rows 2 | Contact Features: Mating Tab Width .039 INCH | Contact Mating Area Plating Material Tin | Contact Size 1mm | Mating Tab Thickness .025 INCH | Mating Tab Thickness .64 MM | Mating Tab Width 1 MM | Contact Type Tab | Dimensions: PCB Thickness (Recommended) .063 INCH | Profile Height from PCB .657 INCH | Connecto" 750 -100 50 H I L CNN "Description"
+F5 "17.2" 750 -200 50 H I L CNN "Height"
+F6 "TE Connectivity" 750 -300 50 H I L CNN "Manufacturer_Name"
+F7 "174049-2" 750 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "571-1740492" 750 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/174049-2?qs=b0uqA8fAQz7Q5a0FTyiz%2Fw%3D%3D" 750 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "174049-2" 750 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/174049-2/te-connectivity?region=europe" 750 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 0 -300 200 R 50 50 0 0 P
+X 5 5 0 -400 200 R 50 50 0 0 P
+X 6 6 900 0 200 L 50 50 0 0 P
+X 7 7 900 -100 200 L 50 50 0 0 P
+X 8 8 900 -200 200 L 50 50 0 0 P
+X MH1 MH1 900 -300 200 L 50 50 0 0 P
+X MH2 MH2 900 -400 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
